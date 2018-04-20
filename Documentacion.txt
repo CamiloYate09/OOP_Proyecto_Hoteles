@@ -1,0 +1,40 @@
+
+
+"""
+
+capitulo 10
+Programa que lea  de un archivo una lista de hoteles, luego una lista de habitaciones y los
+asigne al hotel permite reservar si la habitacion esta disponible, finalmente
+guarde las reservas en un arhivo
+
+
+
+
+@:parameter
+Atributos
+nombre: Str
+estrellas: int
+habitaciones: [] Habitantes
+servicios[] Str
+
+
+
+@:parameter
+
+Habitaciones
+
+capacidad: int
+tipo:cama . str
+clasificacion : str
+jacuzzi. boolean
+
+
+@:parameter
+
+Reserva
+fecha_inicio : Date
+fecha_fin : Date
+codigo: Int
+habitaciones: habitacion 
+
+"""
